@@ -1,7 +1,5 @@
 # lechaimband.cz
-Le Chaim Band website.
 
+Le Chaim Band Olomouc (Czech Republic) website.
 
-## Further help
-
-Visit the [Nx Documentation](https://nx.dev) to learn more.
+Please contact us at lechaimolomouc@gmail.com 
